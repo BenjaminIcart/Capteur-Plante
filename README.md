@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=5CGlXEGgPIk
 
 # Français :
 
-## Capteur humiditée plante relié à Discord
+## Capteur d'humiditée de plante relié à Discord
 
 Ce projet a été réalisé avec un Wemos D1 Mini doté d'une connectivité Wi-Fi, et peut donc être adapté à d'autres microcontrôleurs. Ce circuit a pour fonction d'envoyer des messages sur discord pour une plante, nous pouvons donc savoir si elle est bien arrosée
 
